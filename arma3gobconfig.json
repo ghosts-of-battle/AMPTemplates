@@ -94,7 +94,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "motd",
         "IncludeInCommandLine": false,
-        "DefaultValue": "\"Welcome to Arma 3\",\"Hosted using AMP by CubeCoders\"",
+        "DefaultValue": "\"Welcome to Arma 3\",\"Powered by 3 hamsters, 2 rubber bands and some gum\"",
         "EnumValues": {}
     },
     {
